@@ -1,1 +1,3 @@
-# exercicio-html-e-bulma
+exercicio html e bulma!!
+
+projeto para desenvolvere minhas habilidades                                                               
