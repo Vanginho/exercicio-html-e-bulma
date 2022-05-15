@@ -1,3 +1,3 @@
-exercicio html e bulma!!
+exercicio 
 
 projeto                                                               
