@@ -1,3 +1,2 @@
-exercicio 
-
+exercicio  HTML
 projeto                                                               
